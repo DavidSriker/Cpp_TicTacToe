@@ -1,4 +1,4 @@
-#TicTacToe
+## TicTacToe
 
 # Simple implementation of TicTacToe game in C++
 # Rules of the game are:
